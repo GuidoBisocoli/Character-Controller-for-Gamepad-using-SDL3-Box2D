@@ -15,7 +15,7 @@ https://github.com/user-attachments/assets/ededbe5e-ee0e-49f1-a946-9f379530b579
 - Compile and copy SDL3.dll and SDL3_image.dll to the created folder (for example: x64\Release\)
 
 # Download
-- Download from releases if you just want to test it
+- Download from [releases](https://github.com/GuidoBisocoli/Character-Controller-for-Gamepad-using-SDL3-Box2D/releases/tag/v1.0) if you just want to test it
 
 # Controls (with Gamepad):
 - Left Stick: move the character
