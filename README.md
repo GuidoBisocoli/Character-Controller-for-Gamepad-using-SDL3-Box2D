@@ -1,4 +1,4 @@
-## A simple character controller for gamepads using SDL3 and Box2D v3
+## A character controller for gamepads using SDL3 and Box2D v3
 
 https://github.com/user-attachments/assets/ededbe5e-ee0e-49f1-a946-9f379530b579
 
